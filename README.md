@@ -1,2 +1,2 @@
 # Modern_STM32
-Using VSCode+Cmake+Ninja+GCC+OpenOCD develop STM32 Project
+使用 VSCode+Cmake+Ninja+GCC+OpenOCD 开发STM32工程
